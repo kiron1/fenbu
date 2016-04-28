@@ -1,0 +1,7 @@
+
+CMakeLists.txt.user
+.cache/
+*.bak
+*.pyc
+*~
+~*
